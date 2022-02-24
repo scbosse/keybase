@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am scbosse on github.
+  * I am scb (https://keybase.io/scb) on keybase.
+  * I have a public key ASBBnMvePPVP-e00nrNi8Sfkc5Z0nqjGd0nM8jc_LgtO_Ao
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120419ccbde3cf54ff9ed349eb362f127e47396749ea8c67749ccf2373f2e0b4efc0a",
+      "host": "keybase.io",
+      "kid": "0120419ccbde3cf54ff9ed349eb362f127e47396749ea8c67749ccf2373f2e0b4efc0a",
+      "uid": "0819abc2f9670d9aeaaaa52136d89319",
+      "username": "scb"
+    },
+    "merkle_root": {
+      "ctime": 1645676910,
+      "hash": "01e1c6a860ed5e0d2854d81d45b89ddabb23b43dd811ef3ff8893b3800aa53af8e947e1b239009f1244ecfb1cd8380ae71d00355eb1ffd110a13548ed8069e71",
+      "hash_meta": "dd2f8843ef7a7e64b11168bb60a1cada57433222db49174046eec88016838d0e",
+      "seqno": 21942862
+    },
+    "service": {
+      "entropy": "rjdjwrVSNLa8Aaixh03CyKoW",
+      "name": "github",
+      "username": "scbosse"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.9.2"
+  },
+  "ctime": 1645676941,
+  "expire_in": 504576000,
+  "prev": "595be6dfa2ad261ce2e578166dfaace3e12e985c4cbe42145f27f08495c8cdcb",
+  "seqno": 14,
+  "tag": "signature"
+}
+```
+
+with the key [ASBBnMvePPVP-e00nrNi8Sfkc5Z0nqjGd0nM8jc_LgtO_Ao](https://keybase.io/scb), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgQZzL3jz1T/ntNJ6zYvEn5HOWdJ6oxndJzPI3Py4LTvwKp3BheWxvYWTESpcCDsQgWVvm36KtJhzi5XgWbfqs4+EumFxMvkIUXyfwhJXIzcvEIP1oxciWwPO7/cCtdROqbaHmCWdD7+k04ujsMknXjMyAAgHCo3NpZ8RAREAs8Neu4pArZEluiBKq354l2y7MO9se3w1R+nXUpV0vxc99CAc9toOdNB8Z0ReS7nBhFKtPx9snr0PUGX/qCqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJe396nYWHuB6nqX2L4QF+U6sFS3K488omzMW68/3AMho3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/scb
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id scb
+```
